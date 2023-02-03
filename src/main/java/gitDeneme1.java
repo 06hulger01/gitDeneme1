@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class gitDeneme1 {
     public static void main(String[] args) {
         System.out.println("hello java");
@@ -5,5 +7,8 @@ public class gitDeneme1 {
         System.out.println("hello dear");
         // inteilije merhaba
         // gitHup merhaba
+
+        int[]arr={2,3,8,46,85};
+        System.out.println(arr.length);
     }
 }
