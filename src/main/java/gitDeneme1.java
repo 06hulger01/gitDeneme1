@@ -5,5 +5,7 @@ public class gitDeneme1 {
         System.out.println("hello dear");
         // inteilije merhaba
         // gitHup merhaba
+
+        System.out.println("ekleme");
     }
 }
